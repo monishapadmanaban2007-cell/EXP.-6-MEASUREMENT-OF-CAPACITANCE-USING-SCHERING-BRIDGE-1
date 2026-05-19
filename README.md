@@ -1,6 +1,6 @@
 # EXP.-6-MEASUREMENT-OF-CAPACITANCE-USING-SCHERING-BRIDGE-1
 
-## AIM
+## AIM:
 
 To Determine the Capacitance of an unknown Capacitor using Schering Bridge.
 
