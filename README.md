@@ -29,14 +29,19 @@ Measure Capacitor Value:
 The current voltmeter reading is: 
 
    Capacitor value (in uF):
-
+  
    Resistance value (in Ω): 
 
-   Dissipation Factor: 
+Dissipation Factor:
+
+  <img width="778" height="248" alt="Screenshot 2026-05-19 110358" src="https://github.com/user-attachments/assets/cdd4ba49-1cd5-49c9-90e8-9ddbbbe6afe7" />
+
 
 
   ## Circuit Diagram :
-  <img width="461" height="424" alt="image" src="https://github.com/user-attachments/assets/9fb955cb-44e3-4b4d-a389-2f4628c50930" />
+  <img width="823" height="782" alt="Screenshot 2026-05-19 110313" src="https://github.com/user-attachments/assets/d3553856-66ca-4f36-82d4-a1efd85d81b7" />
 
 
 ## Result: 
+
+Thus, the Schering Bridge is verified as an effective method for measuring capacitance and dielectric properties of insulating materials.
